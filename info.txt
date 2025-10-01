@@ -1,2 +1,3 @@
 name Sam
 Registration no.: 123456
+address - #34, zanelor, Mosnita
